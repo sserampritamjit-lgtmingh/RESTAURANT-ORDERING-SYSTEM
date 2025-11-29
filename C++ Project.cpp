@@ -70,8 +70,8 @@ int main() {
     if (Mimi_SingjuQty > 0) cout << "Mimi Singju x " << Mimi_SingjuQty << " = Rs." << Mimi_SingjuQty * 100 << endl;
     if (Smoked_PorkQty > 0) cout << "Smoked Pork x " << Smoked_PorkQty << " = Rs." << Smoked_PorkQty * 250 << endl;
     if (Chakhao_KheerQty > 0) cout << "Chakhao Kheer x " << Chakhao_KheerQty << " = Rs." << Chakhao_KheerQty * 150 << endl;
-    if (Nga_AtoibaQty > 0) cout << "Nga Atoiba x " << Nga_AtoibaQty << " = Rs." << Nga_AtoibaQty * 80 << endl;
-    if (Rice_WineQty > 0) cout << "Rice Wine x " << Rice_WineQty << " = Rs." << Rice_WineQty * 50 << endl;
+    if (Nga_AtoibaQty > 0) cout << "Nga Atoiba x " << Nga_AtoibaQty << " = Rs." << Nga_AtoibaQty * 120 << endl;
+    if (Rice_WineQty > 0) cout << "Rice Wine x " << Rice_WineQty << " = Rs." << Rice_WineQty * 70 << endl;
 
     cout << "----------------------------\n";
     cout << "Total Amount: Rs." << total << "\n";
@@ -79,4 +79,5 @@ int main() {
 
     return 0;
 }
+
 
